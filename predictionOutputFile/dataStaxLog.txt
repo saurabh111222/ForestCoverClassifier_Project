@@ -1,0 +1,5 @@
+2021-08-20/21:48:10		Connection established.
+2021-08-20/21:48:13		Connected to dataStax Astra Cluster.
+2021-08-20/21:48:17		Training file: datafortraining_1 is loaded into dir: TrainingDataFilesFromDataStax 
+2021-08-20/21:48:19		Prediction file: dataforprediction_1 is loaded into dir: TrainingDataFilesFromDataStax 
+2021-08-20/21:48:19		DataStax Astra Cluster closed.

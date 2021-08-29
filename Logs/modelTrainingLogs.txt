@@ -1,0 +1,22 @@
+2021-08-20/21:48:20		Entered into the methodForModelTraining method of modelTraining Class.
+2021-08-20/21:48:20		Loading preprocessed data clusterwise for training.
+2021-08-20/21:48:20		Loaded data for cluster 0
+2021-08-20/21:48:20		Applying XgBoost Classifier on cluster 0
+2021-08-20/21:48:37		Applying Random Classifier on cluster 0
+2021-08-20/21:48:41		Applying Logistic Regression on cluster 0
+2021-08-20/21:48:42		Applying Gradient Boosting Classifier on cluster 0
+2021-08-20/21:49:38		Applying KNeighbors Classifier on cluster 0
+2021-08-20/21:49:41		Loaded data for cluster 1
+2021-08-20/21:49:41		Applying XgBoost Classifier on cluster 1
+2021-08-20/21:49:48		Applying Random Classifier on cluster 1
+2021-08-20/21:49:51		Applying Logistic Regression on cluster 1
+2021-08-20/21:49:52		Applying Gradient Boosting Classifier on cluster 1
+2021-08-20/21:50:09		Applying KNeighbors Classifier on cluster 1
+2021-08-20/21:50:09		Loaded data for cluster 2
+2021-08-20/21:50:09		Applying XgBoost Classifier on cluster 2
+2021-08-20/21:50:22		Applying Random Classifier on cluster 2
+2021-08-20/21:50:25		Applying Logistic Regression on cluster 2
+2021-08-20/21:50:26		Applying Gradient Boosting Classifier on cluster 2
+2021-08-20/21:51:06		Applying KNeighbors Classifier on cluster 2
+2021-08-20/21:51:07		Saving the models.
+2021-08-20/21:51:07		Training Completed Successfully.
